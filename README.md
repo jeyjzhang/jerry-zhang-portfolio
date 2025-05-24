@@ -22,8 +22,8 @@
 <img src="assets/malnutrition-app/form-page-1.png" width="200"> <img src="assets/malnutrition-app/results-page.png" width="200">
 
 - **Impact:** Currently assisting in malnutrition detection for 1,000+ Ethiopian children
-- **Tech Stack:** React Native, Android Studio, Firebase
-- **What I Built:** Android app with robust data analysis algorithms for real-time health metric processing
+- **Tech Stack:** React Native, Android Studio
+- **What I Built:** Android app with robust data analysis algorithms for health metric processing
 - **Key Features:** Multi-step assessment forms, real-time malnutrition classification, care recommendations, immunization tracking
 - **Key Achievement:** Boosted volunteer efficiency by 300% compared to traditional detection methods
 

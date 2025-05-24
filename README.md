@@ -19,7 +19,7 @@
 ### Malnutrition Detection App
 **Role:** Mobile Application Developer | **Timeline:** May 2024 - Present | **Organization:** Lalmba Association
 
-<img src="assets/malnutrition-app/form-page-1.png" width="250"> <img src="assets/malnutrition-app/results-page.png" width="250">
+<img src="assets/malnutrition-app/form-page-1.png" width="200"> <img src="assets/malnutrition-app/results-page.png" width="200">
 
 - **Impact:** Currently assisting in malnutrition detection for 1,000+ Ethiopian children
 - **Tech Stack:** React Native, Android Studio, Firebase

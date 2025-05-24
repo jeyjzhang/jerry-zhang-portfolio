@@ -19,7 +19,7 @@
 ### Malnutrition Detection App
 **Role:** Mobile Application Developer | **Timeline:** May 2024 - Present | **Organization:** Lalmba Association
 
-![Malnutrition App Screenshots](assets/malnutrition-app/form-page-1.png) ![Results Screen](assets/malnutrition-app/results-page.png)
+<img src="assets/malnutrition-app/form-page-1.png" width="250"> <img src="assets/malnutrition-app/results-page.png" width="250">
 
 - **Impact:** Currently assisting in malnutrition detection for 1,000+ Ethiopian children
 - **Tech Stack:** React Native, Android Studio, Firebase
@@ -32,7 +32,7 @@
 ### Trojan Commute - USC Ride Sharing App
 **Role:** Solo Developer | **Timeline:** Mar 2024 - Apr 2024 | **Personal Project**
 
-![Trojan Commute App](assets/trojan-commute/login-screen.png) ![Create Trip](assets/trojan-commute/create-trip.png) ![Matches](assets/trojan-commute/matches-screen.png)
+<img src="assets/trojan-commute/login-screen.png" width="200"> <img src="assets/trojan-commute/create-trip.png" width="200"> <img src="assets/trojan-commute/matches-screen.png" width="200">
 
 - **Impact:** Designed to reduce LAX Uber costs by 50%+ for USC students
 - **Tech Stack:** Swift, Firebase, MapKit, Core Location, Twilio API

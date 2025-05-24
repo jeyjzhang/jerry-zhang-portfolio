@@ -1,6 +1,6 @@
-Jerry Zhang - Project Portfolio
+# Jerry Zhang - Project Portfolio
 
-Mobile & Full-Stack Developer** | Computer Science & Business Administration @ USC
+**Mobile & Full-Stack Developer** | Computer Science & Business Administration @ USC
 
 *Note: Most of my professional work is in private repositories due to proprietary/university restrictions. This portfolio showcases the impact and technical scope of my projects.*
 
@@ -19,15 +19,20 @@ Mobile & Full-Stack Developer** | Computer Science & Business Administration @ U
 ### Malnutrition Detection App
 **Role:** Mobile Application Developer | **Timeline:** May 2024 - Present | **Organization:** Lalmba Association
 
+![Malnutrition App Screenshots](assets/malnutrition-app/form-page-1.png) ![Results Screen](assets/malnutrition-app/results-page.png)
+
 - **Impact:** Currently assisting in malnutrition detection for 1,000+ Ethiopian children
 - **Tech Stack:** React Native, Android Studio, Firebase
 - **What I Built:** Android app with robust data analysis algorithms for real-time health metric processing
+- **Key Features:** Multi-step assessment forms, real-time malnutrition classification, care recommendations, immunization tracking
 - **Key Achievement:** Boosted volunteer efficiency by 300% compared to traditional detection methods
 
 *Code is proprietary to Lalmba Association*
 
 ### Trojan Commute - USC Ride Sharing App
 **Role:** Solo Developer | **Timeline:** Mar 2024 - Apr 2024 | **Personal Project**
+
+![Trojan Commute App](assets/trojan-commute/login-screen.png) ![Create Trip](assets/trojan-commute/create-trip.png) ![Matches](assets/trojan-commute/matches-screen.png)
 
 - **Impact:** Designed to reduce LAX Uber costs by 50%+ for USC students
 - **Tech Stack:** Swift, Firebase, MapKit, Core Location, Twilio API
@@ -36,6 +41,7 @@ Mobile & Full-Stack Developer** | Computer Science & Business Administration @ U
   - Firebase authentication and real-time database
   - SMS integration via Twilio API
   - Seamless integration with iOS Contacts, Photos, and Calendar
+- **Key Features:** USC/LAX route optimization, calendar integration for trip planning, real-time matching algorithm
 
 *Code available upon request for interviews*
 

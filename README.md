@@ -14,6 +14,8 @@
 - **What I Built:** Complete iOS app allowing users to send location-based emergency alerts via wearable bracelet
 - **Key Achievement:** Led Kickstarter campaign that secured university adoption deals
 
+https://www.braveband.tech/shop-the-bracelet
+
 *Code is proprietary to Brave*
 
 ### Malnutrition Detection App

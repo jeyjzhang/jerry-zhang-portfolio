@@ -28,7 +28,7 @@ https://www.braveband.tech/shop-the-bracelet
 - **What I Built:** Android app with robust data analysis algorithms for health metric processing
 - **Key Features:** Multi-step assessment forms, real-time malnutrition classification, care recommendations, immunization tracking
 - **Key Achievement:** Boosted volunteer efficiency by 300% compared to traditional detection methods
-- 
+  
 https://www.lalmba.org/
 
 *Code is proprietary to Lalmba Association*

@@ -19,7 +19,7 @@ https://www.braveband.tech/shop-the-bracelet
 *Code is proprietary to Brave*
 
 ### Malnutrition Detection App
-**Role:** Mobile Application Developer | **Timeline:** May 2024 - Present | **Organization:** Lalmba Association
+**Role:** Mobile Application Developer | **Timeline:** May 2024 - Aug 2025 | **Organization:** Lalmba Association
 
 <img src="assets/malnutrition-app/form-page-1.png" width="200"> <img src="assets/malnutrition-app/results-page.png" width="200">
 
